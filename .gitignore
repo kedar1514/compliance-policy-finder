@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript compiled files
+dist/
+build/
+
+# TypeScript declaration files (optional, depending on your setup)
+*.d.ts
+
+# Environment variables file (you may have a .env file for secrets)
+.env
+
+# Logs and temporary files
+logs/
+*.log
+
+# IDE and editor files (optional, depending on which editor you use)
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# NPM package-lock files (optional: include if you don't want to commit package-lock.json)
+# package-lock.json
+
+# Yarn lock file (optional: include if you use Yarn)
+# yarn.lock
+
+# TypeScript type files, for example if you're using `tsc --declaration`
+# *.tsbuildinfo
